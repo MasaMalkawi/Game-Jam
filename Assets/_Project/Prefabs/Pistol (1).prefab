@@ -5137,7 +5137,7 @@ GameObject:
   - component: {fileID: 6457754872728112377}
   - component: {fileID: 6457754872728112383}
   m_Layer: 0
-  m_Name: Pistol
+  m_Name: Pistol (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5152,7 +5152,7 @@ Transform:
   m_GameObject: {fileID: 6457754872728112373}
   serializedVersion: 2
   m_LocalRotation: {x: -0.71238995, y: -0, z: -0, w: 0.7017839}
-  m_LocalPosition: {x: 0.154, y: 0.419, z: 2.725}
+  m_LocalPosition: {x: 0.598, y: 0.164, z: 2.686}
   m_LocalScale: {x: 0.040968195, y: 0.04096819, z: 0.04096819}
   m_ConstrainProportionsScale: 0
   m_Children:
