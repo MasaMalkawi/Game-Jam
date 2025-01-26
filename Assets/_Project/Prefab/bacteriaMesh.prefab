@@ -10,15 +10,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 2b6aad26c0c47b74c9f597ebdae73595, type: 3}
       propertyPath: m_LocalScale.x
-      value: 10
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2b6aad26c0c47b74c9f597ebdae73595, type: 3}
       propertyPath: m_LocalScale.y
-      value: 4.409109
+      value: 6.6136637
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2b6aad26c0c47b74c9f597ebdae73595, type: 3}
       propertyPath: m_LocalScale.z
-      value: 4.409109
+      value: 6.6136637
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2b6aad26c0c47b74c9f597ebdae73595, type: 3}
       propertyPath: m_LocalPosition.x
@@ -62,8 +62,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 2b6aad26c0c47b74c9f597ebdae73595, type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2b6aad26c0c47b74c9f597ebdae73595, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f6827a89ecef06b4ebb1899579f4722f, type: 2}
     - target: {fileID: 919132149155446097, guid: 2b6aad26c0c47b74c9f597ebdae73595, type: 3}
       propertyPath: m_Name
       value: bacteriaMesh
